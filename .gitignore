@@ -29,3 +29,7 @@ test.bat
 htmlcov
 .coverage
 *,cover
+
+
+# emacs tmp files
+*~
